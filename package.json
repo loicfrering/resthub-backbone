@@ -1,0 +1,12 @@
+{
+  "name": "resthub-backbone",
+  "version": "2.2.0",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "readmeFilename": "README.rst",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-qunit": "~0.2.2"
+  }
+}
