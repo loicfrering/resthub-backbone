@@ -7,6 +7,7 @@
   "readmeFilename": "README.rst",
   "devDependencies": {
     "grunt": "~0.4.1",
-    "grunt-contrib-qunit": "~0.2.2"
+    "grunt-contrib-qunit": "~0.2.2",
+    "grunt-contrib-jshint": "~0.6.2"
   }
 }
