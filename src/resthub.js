@@ -1,4 +1,4 @@
-define(['underscore', 'backbone', 'jquery', 'lib/resthub/jquery-event-destroyed'], function(_, Backbone, $) {
+define(['underscore', 'backbone', 'jquery', 'jquery-event-destroyed'], function(_, Backbone, $) {
 
     var Resthub = { };
 

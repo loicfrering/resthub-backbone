@@ -1,8 +1,8 @@
 require(["jquery",
          "resthub",
-         "i18n!../tests/nls/labels",
-         "i18n!../tests/nls/zz-qq/labels",
-         "hbs!../tests/templates/template2"],
+         "i18n!tests/nls/labels",
+         "i18n!tests/nls/zz-qq/labels",
+         "hbs!tests/templates/template2"],
 function($, Resthub, labels, labels_zzqq, template2) {
 
     module("backbone-i18n", {

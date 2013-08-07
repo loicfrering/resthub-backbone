@@ -1,4 +1,4 @@
-require(["backbone", "resthub", "jquery", "underscore", "../tests/validation/model1", "../tests/validation/model2", "backbone-validation"], function(Backbone, Resthub, $, _, model1, model2) {
+require(["backbone", "resthub", "jquery", "underscore", "tests/validation/model1", "tests/validation/model2", "backbone-validation"], function(Backbone, Resthub, $, _, model1, model2) {
 
     var nbGetCalled;
 
